@@ -35,6 +35,9 @@ https://github.com/luciddreamer-cvlab/LucidDreamer/assets/12259041/35004aaa-dffc
 
 ---
 
+## Just Some Notes on Building on my machine
+
+Had to fix my version of cuda following https://github.com/pybind/pybind11/issues/4606
 
 ## 🤖 Install
 
